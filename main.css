@@ -1,0 +1,16 @@
+path {
+    stroke-width: 1.5;
+    fill: none;
+}
+
+.axis path,
+.axis line {
+    stroke: grey;
+    stroke-width: 1;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 0.3rem;
+}
